@@ -1,7 +1,11 @@
 # ZZ EDR
 
 > 单文件、无依赖的 Windows 终端安全检测与应急响应工具。一个 `.cpp` 编译成一个 `.exe`，覆盖病毒查杀、行为审计、持久化清理、勒索防护、内核驱动五层防御。
+> ⚠️项目代码仅供安全研究与技术学习阅读。
 
+⚠️未经作者书面许可，禁止编译、运行、修改、分发或用于任何商业用途。
+
+⚠️作者不对任何使用后果负责。
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)](https://www.microsoft.com/windows)
 [![Compiler](https://img.shields.io/badge/compiler-MSVC%20/cl.exe%20(x64)-blue)](https://visualstudio.microsoft.com/)
 [![Standard](https://img.shields.io/badge/std-C%2B%2B17-00599C)](https://isocpp.org/)
